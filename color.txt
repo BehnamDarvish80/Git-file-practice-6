@@ -1,6 +1,6 @@
 red
 blue
 yellow
-green 1
-green 2
-green 3
+yellow 1
+yellow 2
+yellow 3
