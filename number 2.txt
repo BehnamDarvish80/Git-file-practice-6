@@ -1,1 +1,2 @@
 check file 1
+check file 2
